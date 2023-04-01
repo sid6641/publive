@@ -28,7 +28,7 @@
 
  ### Sample outputs for the news articles:
  Article: https://www.newsdrum.in/personal-finance/warren-buffetts-letter-to-shareholders-key-takeaways-for-investors
- Output:
+ 
  Summary: 
 * According to Warren Buffett, stock market efficiency is a myth and stocks often trade at unreasonable prices. 
 * He encourages investors to focus on businesses rather than stocks and cautions that it is not easy to find good businesses. 
@@ -39,6 +39,7 @@
 
 
  Article: https://30stades.com/art-culture/how-pritikana-goswami-revived-bengal-nakshi-kantha-embroidery-poverty-to-empowerment
+ 
  Summary: 
 * The article focuses on the current state of US-China trade relations and the potential consequences of President Trump's recent tariffs. 
 * It highlights some of the key issues at stake, including rising tensions between the two countries over intellectual property theft, currency manipulation and market access. 
