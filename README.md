@@ -41,9 +41,8 @@
  Article: https://30stades.com/art-culture/how-pritikana-goswami-revived-bengal-nakshi-kantha-embroidery-poverty-to-empowerment
  
  Summary: 
-* The article focuses on the current state of US-China trade relations and the potential consequences of President Trump's recent tariffs. 
-* It highlights some of the key issues at stake, including rising tensions between the two countries over intellectual property theft, currency manipulation and market access. 
-* It argues that while tariffs may be a short-term solution to protect American jobs, they could have long term negative effects on both economies if not handled properly by both sides. 
-* The article also looks at how China is responding to these new tariffs with retaliatory measures such as increasing taxes on certain goods imported from the US and potentially restricting access to its markets for certain companies or products in retaliation against US actions.  
-* In addition, it discusses how other countries are being impacted by this situation due to their economic ties with either country, with many economists predicting a global economic slowdown as a result of this ongoing trade war between two major world powers . 
-* Finally, it outlines how businesses can prepare themselves for potential changes in international trade resulting from this dispute through diversifying their supply chains and exploring alternative sources of production outside China or the US depending on what best suits their needs in light of changing circumstances..
+* Pritikana Goswami received the Padma Shri award in 2023 for reviving Bengal's long-lost Nakshi Kantha craft through her artworks. 
+* The Sanskrit word Kontha, which implies scraps or rags, is whence the word "Kantha" originates and was referenced as warm clothing in Panini's book "Ashtadhyayi". 
+* In 1989, Pritikana was asked to create a group of women to work at a new Kantha stitching centre and replicate an intricate type of embroidery mostly done in Bangladesh called Nakshi Kantha - which she did successfully over three months.  
+* Types of stitches used include Cross-stitch, backstitch, Kane stitch, Herringbone stitch, Satin stitch and running stitch among others; with various border types including Beki par (wavy or bent border), Biche par (scorpion border), Barfi par (diamond border) etc. 
+* Mahua Lahiri has taken forward her mother’s legacy by participating as a speaker in seminars and using social media sites like Facebook and Instagram as marketing tools; while also sourcing Kantha from women trained by her mother for buyers abroad
