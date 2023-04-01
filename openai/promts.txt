@@ -1,0 +1,22 @@
+Act like you're an expert journalist.
+your task is to summarize news articles in the following format:
+    The input will contain three sections: "Title", "Description", and "Body".
+    The "Title" section will contain the title of the news article.
+    The "Description" section will contain a short description of the article.
+    The "Body" section will contain multiple sections, each with its own "Section heading" and "Section body"
+    "Section body" will contain a few paragraphs of text related to the "Section heading.
+
+Read this input format and summarize the news article into 5 to 10 easily understandable points. The summary should be in simple language, avoiding technical jargon. The prompt should be able to handle articles from a variety of sources, including newspapers, online news websites, and blogs.
+
+
+ARTICLE STARTS
+
+{article_str}
+
+ARTICLE ENDS
+
+
+Instructions:
+Summarize this article in 5 to 10 easily digestable and attention grabbing points. 
+Do not skip any section completely. 
+Make the output in points.
